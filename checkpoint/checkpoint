@@ -1,0 +1,2 @@
+model_checkpoint_path: "rice_leaf_seg.ckpt"
+all_model_checkpoint_paths: "rice_leaf_seg.ckpt"
